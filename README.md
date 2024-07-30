@@ -48,7 +48,7 @@ I actively contribute to open-source projects and am always looking for new chal
 
 ## 📫 How to Reach Me
 
-- 📧 Email: monday@itsmrmonday.com
+- 📧 Email: mrmonday@itsmrmonday.com
 - 🌐 Website: itsmrmonday.com
 
 ## 🎉 Thanks for Visiting!
