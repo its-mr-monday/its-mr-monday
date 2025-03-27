@@ -1,11 +1,11 @@
 # 👋 Hello, I'm ItsMrMonday!
 
-I'm a Cyber Security Analyst with a passion for developing innovative cybersecurity tools. My journey in cybersecurity has led me to create several impactful tools that enhance security measures and facilitate communication between processes.
+I'm a Red Team Operator with a passion for developing innovative cybersecurity tools. My journey in cybersecurity has led me to create several impactful tools that enhance security measures and facilitate communication between processes.
 
 ## 🔍 About Me
 
-- 🌱 Currently expanding my skills in red team engagements, focusing on actively locating and identifying exploitable vulnerabilities through OFFSEC proving grounds.
-- 💼 Experienced Cyber Security Analyst with a passion for developing innovative cybersecurity tools.
+- 🌱 Currently expanding my skills in red team engagements, focusing on actively locating and identifying exploitable vulnerabilities through OFFSEC proving grounds and overall improving my craft
+- 💼 Experienced Red Team Operator with a passion for developing innovative cybersecurity tools.
 - 🛠️ Skilled in building tools that address various challenges in the cybersecurity field.
 - 🎯 Always looking to collaborate on exciting projects that push the boundaries of cybersecurity.
 - 💬 Feel free to reach out to discuss cybersecurity trends, tools, or collaboration opportunities!
@@ -29,13 +29,14 @@ Here are some notable tools I've created:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 
 ## 📦 Projects
@@ -49,7 +50,6 @@ I actively contribute to open-source projects and am always looking for new chal
 ## 📫 How to Reach Me
 
 - 📧 Email: mrmonday@itsmrmonday.com
-- 🌐 Website: itsmrmonday.com
 
 ## 🎉 Thanks for Visiting!
 
