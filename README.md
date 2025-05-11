@@ -16,6 +16,8 @@ Here are some notable tools I've created:
 
 - **Hexio Command and Control Framework**: A closed-source framework that enables users to generate payloads for Windows and Linux, add custom modules, and utilize HexioScripts and HexioExploits for infection. Supports a wide array of protocols, including HTTP and SMB.
 
+- **sRDI-CPP**: A C++ implementation of the sRDI generator, it allows users to generate PIE shellcode from native Windows DLL's, the tool may be compiled to target Win32, Win64 and Linux
+
 - **PyIPC and JsIPC**: Tools designed for inter-process communication and RPC invoking between Python and JavaScript processes, enhancing cross-language functionality.
 
 - **HTTPRequests**: A C++ header-only solution that is compliant with Windows and POSIX for making web requests, similar to the Python module.
