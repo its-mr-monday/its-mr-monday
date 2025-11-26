@@ -14,7 +14,7 @@ I'm a Red Team Operator with a passion for developing innovative cybersecurity t
 
 Here are some notable tools I've created:
 
-- **Hexio Command and Control Framework**: A closed-source framework that enables users to generate payloads for Windows and Linux, add custom modules, and utilize HexioScripts and HexioExploits for infection. Supports a wide array of protocols, including HTTP and SMB.
+- **Hexio Command and Control Framework**: A closed-source framework that enables users to generate payloads for Windows, Linux, macOS and iOS, add custom modules, and utilize HexioScripts and HexioExploits for infection. Supports a wide array of protocols, including HTTP(S), P2P SMB, P2P TCP and user defined ExternalC2 transports.
 
 - **sRDI-CPP**: A C++ implementation of the sRDI generator, it allows users to generate PIE shellcode from native Windows DLL's, the tool may be compiled to target Win32, Win64 and Linux
 
